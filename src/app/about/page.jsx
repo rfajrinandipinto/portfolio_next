@@ -18,7 +18,7 @@ const about = () => {
         </p>
         <p>From an early age&lsquo; I have always been fascinated by technology and how it can be used to solve complex problems&rsquo; As a result&lsquo; I began teaching myself how to code when I was in high school&lsquo; and I quickly fell in love with it&rsquo;</p>
         <p>
-          One of my greatest strengths as a developer is my ability to adapt quickly to new technologies&rsquo; I am always looking for new and innovative ways to solve problems and improve my skills&rsquo; Whether it's learning a new framework or
+          One of my greatest strengths as a developer is my ability to adapt quickly to new technologies&rsquo; I am always looking for new and innovative ways to solve problems and improve my skills&rsquo; Whether it&apos;s learning a new framework or
           programming language&lsquo; I am always up for the challenge&rsquo;
         </p>
         <p>
@@ -35,7 +35,7 @@ const about = () => {
         </p>
         <p>
           In summary&lsquo; I am Rahamat Fajri Nandipinto&lsquo; a college student&lsquo; self-taught full-stack developer&lsquo; quick to adapt to new technologies&lsquo; with excellent communication and public speaking skills&lsquo; and several experiences working in a
-          team&rsquo; I am excited to continue learning and growing as a developer&lsquo; and I can't wait to see where my skills and passion for technology will take me in the future!
+          team&rsquo; I am excited to continue learning and growing as a developer&lsquo; and I can&apos;t wait to see where my skills and passion for technology will take me in the future!
         </p>
       </div>
     </div>
