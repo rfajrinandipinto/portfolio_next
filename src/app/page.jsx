@@ -5,7 +5,7 @@ const page = () => {
 
   
   return (
-    <div className="fadeIn max-h-screen overflow-scroll w-full">
+    <div className="fadeIn max-h-screen overflow-scroll w-full scrollbar-hide">
       <img src="/home.jpg" alt="" />
     </div>
   )

@@ -6,7 +6,7 @@ import { useState } from 'react'
 const about = () => {
 
   return (
-    <div className="xl:max-h-screen xl:overflow-scroll w-full">
+    <div className="xl:max-h-screen xl:overflow-scroll w-full scrollbar-hide">
       <div className="text-7xl font-bold text-white mb-8">
         <h1>Work</h1>
         <h1>Experience</h1>

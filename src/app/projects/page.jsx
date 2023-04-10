@@ -12,7 +12,7 @@ const projects = () => {
 
 
   return (
-    <div className="fadeIn xl:max-h-screen xl:overflow-scroll w-full">
+    <div className="fadeIn xl:max-h-screen xl:overflow-scroll w-full scrollbar-hide">
       
       <div className=" text-lg flex flex-col gap-5 text-gray-400 mb-20">
           <div className="grid grid-cols-12 gap-10">
