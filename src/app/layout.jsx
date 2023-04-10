@@ -2,7 +2,7 @@
 
 
 import "./globals.css";
-import { FaLinkedin, FaGithub, FaInstagram} from "react-icons/Fa";
+import { FaLinkedin, FaGithub, FaInstagram} from "react-icons/fa";
 import { FiMail} from "react-icons/fi";
 import { BsCodeSlash} from "react-icons/bs"
 export const metadata = {
