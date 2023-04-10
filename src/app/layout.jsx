@@ -21,10 +21,10 @@ const Rootlayout = ({children}) => {
           <BsCodeSlash className="text-3xl text-white mb-4" />
           <div className="text-6xl font-bold text-white mb-8">
             <h1>R Fajri</h1>
-            <h1>Nandipinto.</h1>
+            <h1>Nandipinto&rsquo;</h1>
           </div>
           <div className="text-gray-400 text-lg border-b-white">
-            <p>I'm a web developer with experience in React, Next, Node, Express, and Tailwind CSS. Check out my portfolio to see examples of my work. Let's bring your project to life together!</p>
+            <p>I&apos;m a web developer with experience in React&#39; Next&#39; Node&#39; Express&#39; and Tailwind CSS&rsquo; Check out my portfolio to see examples of my work Let&apos;s bring your project to life together!</p>
           </div>
           <hr className="my-8" />
           <div className="flex text-2xl text-gray-500 gap-4 mb-12">
