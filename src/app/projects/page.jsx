@@ -2,7 +2,6 @@
 
 import React, { useEffect } from 'react'
 import { useState } from 'react'
-import { FaChevronRight} from "react-icons/fa"
 import Link from 'next/link'
 
 const projects = () => {
